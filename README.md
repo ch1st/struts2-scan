@@ -12,4 +12,4 @@
     python scan.py -u http://www.xxx.com/index.action
 # Result
     
-    ![url检测](url.jpg)
+ ![url检测](url.jpg)
